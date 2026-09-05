@@ -7,8 +7,8 @@ Here is the in-depth, variant-wise breakdown of features, battery options, and p
 | Feature / Spec | **SPORTEQ One** | **SPORTEQ Two** | **SPORTEQ Three** | **SPORTEQ Three Plus (Three+)** | **SPORTEQ Four (Flagship)** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Battery Options** | 59 kWh | 59 kWh | 59 kWh, 70 kWh | 70 kWh, 79 kWh | 79 kWh |
-| **Power Output** | 228 bhp | 228 bhp | 228 bhp | 228 bhp (70kWh) / 286 bhp (79kWh) | 286 bhp |
-| **ARAI Range** | 548 km | 548 km | 548 km - 600 km | 600 km - 682 km | 682 km |
+| **Power Output** | 228 bhp | 228 bhp | 228 bhp (59kWh) / 245 PS (70kWh) | 245 PS (70kWh) / 286 bhp (79kWh) | 286 bhp |
+| **ARAI Range** | 548 km | 548 km | 548 km - 651 km | 651 km - 682 km | 682 km |
 | **BaaS Eligibility** | ✅ Yes (Starts ₹11.45L) | ✅ Yes (~₹12.95L) | ❌ No | ❌ No | ❌ No |
 | **Price (Outright)** | ₹19.45 Lakh | ₹20.95 Lakh | ₹21.95L (59) / ₹22.95L (70) | ₹23.95L (70) / ₹24.95L (79) | ₹26.95 Lakh |
 | **Display / Cockpit** | Dual 12.3-inch Screens | **Triple-Screen** (Coast-to-Coast) | Triple-Screen (Coast-to-Coast) | Triple-Screen (Coast-to-Coast) | Triple-Screen (Coast-to-Coast) |
