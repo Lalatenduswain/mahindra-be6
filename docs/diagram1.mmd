@@ -1,0 +1,8 @@
+flowchart TD
+    A[Start: Buying a BE 6 SPORTEQ One or Two] --> B{Daily driving distance?}
+    B -->|"Under ~60 km/day, predictable"| C{Prioritize lowest upfront cost?}
+    B -->|"Over ~60 km/day, or unpredictable"| D[Choose Outright Purchase]
+    C -->|Yes| E[Choose BaaS: Rs 11.45L + Rs 3.75/km]
+    C -->|No, prefer long-term savings| D
+    D --> F[Own the battery outright: Rs 19.45L, ~Rs 1-1.5/km running cost]
+    E --> G[Lower entry cost, but uncapped per-km rental and harder resale]
