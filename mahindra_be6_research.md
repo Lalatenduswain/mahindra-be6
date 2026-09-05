@@ -57,5 +57,12 @@ Mahindra offers an industry-leading warranty for the high-voltage battery to rea
   * Semi-active suspension and drive modes for variable performance.
 * **Boot Space:** 455 litres.
 
+## 6. Charging on Long-Distance Journeys
+* **Portable AC cable (carriable):** BE 6 ships with a 3 kW portable charging cable that plugs into any standard 3-pin 15A socket. Small enough to keep in the boot, but only adds ~25-30 km of range per hour - useful as an overnight/backup top-up at a stopover, not for a mid-journey pit stop.
+* **DC fast charger (not carriable):** The 140-180 kW fast chargers that give the 20-minute 20-80% top-up are large stationary units needing a 3-phase high-voltage grid connection and cooling infrastructure. There is no portable version - you must drive to a fixed charging station.
+* **No practical "power bank" option:** A portable battery pack large enough to meaningfully extend a 59-79 kWh pack would itself be nearly as big, heavy, and expensive as the car's own battery, so no such product exists for personal EVs.
+* **Recommended approach for road trips:** Plan the route around fixed DC fast-charging stations using the car's navigation/charging-network apps (Mahindra's own network, Statiq, Tata Power EZ Charge, Zeon, ChargeZone), and carry the portable AC cable only as a backup. Highway fast-charging coverage in India is improving but still patchy in 2026, so don't rely on find-as-you-go charging on unfamiliar routes.
+* **Emerging backup option:** On-demand mobile EV charging vans (e.g. Tata.ev + Hopcharge in the NCR) exist in some metro regions for roadside emergencies, but this is not yet a nationwide safety net.
+
 ---
 *Note: Ex-showroom prices do not include wallbox charger costs or installation fees.*
