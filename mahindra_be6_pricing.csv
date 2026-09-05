@@ -1,0 +1,9 @@
+Variant,Battery Capacity (kWh),Motor Power (bhp),Motor Torque (Nm),ARAI Range (km),Efficiency (km/kWh),Price without BaaS (Lakh INR),Price with BaaS (Lakh INR),BaaS Rental (INR/km)
+SPORTEQ One,59,228,380,548,~9.28,19.45,11.45,3.75
+SPORTEQ Two,59,228,380,548,~9.28,20.95,12.95*,3.75
+SPORTEQ Three,59,228,380,548,~9.28,21.95,N/A,N/A
+SPORTEQ Three,70,228,380,~600,~8.57,22.95,N/A,N/A
+SPORTEQ Three Plus,70,228,380,~600,~8.57,23.95,N/A,N/A
+SPORTEQ Three Plus,79,286,380,682,~8.63,24.95,N/A,N/A
+SPORTEQ Four / Launch,79,286,380,682,~8.63,26.95,N/A,N/A
+Formula E Edition,79,286,380,682,~8.63,24.45,N/A,N/A
