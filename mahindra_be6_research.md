@@ -8,7 +8,7 @@ The BE 6 features a rear-mounted, 3-in-1 integrated electric motor setup with ro
 | Battery Pack | Motor Power | Torque | ARAI Range | Est. Real-World Range | Efficiency (Mileage per unit) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **59 kWh** | 228 bhp (170 kW) | 380 Nm | 548 km | 400 - 450 km | ~9.28 km/kWh (ARAI) |
-| **70 kWh** | 228 bhp (170 kW) | 380 Nm | ~600 km | 450 - 500 km | ~8.57 km/kWh (ARAI) |
+| **70 kWh** | 245 PS (180 kW) | 380 Nm | 651 km | 480 - 525 km | ~9.30 km/kWh (ARAI) |
 | **79 kWh** | 286 bhp (210 kW) | 380 Nm | 682 km | 500 - 550 km | ~8.63 km/kWh (ARAI) |
 
 **Key Performance Metrics:**
@@ -50,7 +50,7 @@ Mahindra offers an industry-leading warranty for the high-voltage battery to rea
 | **SPORTEQ Four / Launch Edition** | 79 kWh | ₹26.95 Lakh | N/A |
 
 ## 5. Additional Highlights
-* **Dimensions:** 4,371 mm (L) x 1,907 mm (W) x 1,635 mm (H) with a wheelbase of 2,775 mm.
+* **Dimensions:** 4,371 mm (L) x 1,907 mm (W) x 1,627 mm (H) with a wheelbase of 2,775 mm.
 * **Technology:** 
   * "Coast-to-coast" three-screen digital cockpit.
   * "TEQ Suites" AI features, including TEQ_Talk powered by Google Gemini.
